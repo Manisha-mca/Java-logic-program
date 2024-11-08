@@ -1,16 +1,16 @@
 import java.util.Scanner;
-class alphabets
+class Even
 {
 public static void main(String args[])
 {
-char ch='m';
-if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u')
+int 'm';
+if(n%2)
 {
-System.out.println("it is vowel");
+System.out.println("the number is even");
 }
 else
 {
-System.out.println("it is consonent");
+System.out.println("the number is odd");
 }
 }
 }
